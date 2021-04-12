@@ -1,0 +1,86 @@
+.navbar{
+  background-color: transparent;
+}
+
+.parallax1 {
+  padding-top: 125px;
+  min-height: 800px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+ 
+}
+
+.parallax2 {
+  background-image: url("https://i2-prod.mirror.co.uk/incoming/article12765766.ece/ALTERNATES/s1200/Hankies-Marble-Arch-by-Moment-Hunter-Digital-788.jpg");
+  min-height: 400px;
+  width: auto;
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax3 {
+  background-image: url("https://149449856.v2.pressablecdn.com/wp-content/uploads/2017/11/Italian.jpg");
+  min-height: 400px;
+  width: auto;
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.parallax4 {
+  background-image: url("https://253qv1sx4ey389p9wtpp9sj0-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/Enth100_1920x1280w.jpg");
+  min-height: 400px;
+  width: auto;
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.parallax5{
+  padding-top: 0px;
+  min-height: 700px;
+  width: auto;
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.welc{
+	font-family: Tangerine;
+	font-size: 100px;
+	color: #DAA520;
+	padding-top: 20px;
+}
+
+.bottom{
+	font-family:"Tangerine";
+	font-size: 50px;
+	color: #D2B55B;
+	text-align: center;
+}
